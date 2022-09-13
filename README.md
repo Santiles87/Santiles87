@@ -1,12 +1,3 @@
-# [![nicolas enne header](https://raw.githubusercontent.com/nicolasenne/nicolasenne/main/images/main-banner.png)](https://nicolasenne.co)
-
- **💻 Front-end Developer** | **🎨 Designer** | **🎓 Teacher at [@Le Wagon](https://www.lewagon.com/)**
-
-> I'm a highly creative and committed professional who's capable of thinking both visually & analytically and who can establish brand identities, create visual designs and make responsive websites.
->
-> Well-organized person, problem solver, independent employee with high attention to detail. In love with UI development, musician in my spare time and aiming to become a Pokémon Master.
-
-##
 
 - 👋 Hi, I’m @Santiles87
 - 👀 I’m interested in ... Working with Ruby and Rails !
