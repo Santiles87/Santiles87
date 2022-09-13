@@ -1,4 +1,4 @@
-w<h1 align="center">Hi 👋, I'm Fernando Silva</h1>
+<h1 align="center">Hi 👋, I'm Fernando Silva</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiles87&label=Profile%20views&color=0e75b6&style=flat" alt="santiles87" /> </p>
@@ -39,11 +39,4 @@ w<h1 align="center">Hi 👋, I'm Fernando Silva</h1>
 Santiles87/Santiles87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Development Skills
 
-![image](https://img.shields.io/badge/HTML5-4B21CD?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-551ED5?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-6D15D7?style=for-the-badge&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/Sass-8706D8?style=for-the-badge&logo=sass&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-A000DA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/Ruby-9D14D3?style=for-the-badge&logo=ruby&logoColor=white)
