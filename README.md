@@ -17,20 +17,3 @@ You can click the Preview link to take a look at your changes.
 ![image](https://img.shields.io/badge/Sass-8706D8?style=for-the-badge&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-A000DA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Ruby-9D14D3?style=for-the-badge&logo=ruby&logoColor=white)
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
-### Faça um breve apresentação sobre você
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=FERNANDO SILVA&color=f8efd4&style=for-the-badge&logo=GitHub">
-
-<p>
-
-Estudando/trabalhando na **nome do lugar**<br/>
-
-Eu sou desenvolvedor **sua área**.
-
-
-</p>
-<hr>
-
