@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [what the HELP !](https://what-the-help.herokuapp.com/)
 
-- 🌱 I’m currently learning **javascript and frameworks ; React and Vue.js**
+- 🌱 I’m currently learning **Actuale iam studying about Salesforce; Flow, objects, Query, Triggers and Apex**
 
 - 👯 I’m looking to collaborate on **My profile**
 
