@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Broad](Broad)
 
-- ⚡ Fun fact **I love play video game and Jiu jitsu**
+- ⚡ Fun fact **I love play video game and Jiu jitsu
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
