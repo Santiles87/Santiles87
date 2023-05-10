@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Product Manager <br>- 📚 I'm currently learning React.<br>- ⚡ In my free time I do Jiu Jitsu</p>
+<p align="left">Graduated in Analysis and Systems Development with experience in front-end and full-stack web development, I have skills in programming languages such as JavaScript, Node.js, React, and Ruby on Rails. I have experience working with UI component libraries, global state management, and Git/GitHub. I have knowledge of agile methodologies using the Kanban/Miro and Jira systems. I have experience with databases, such as MySQL. I am a communicative, adaptable, and analytical person, allowing me to manage my time effectively and collaborate efficiently in a team environment.<br><br>- 🔭 I’m working as Product Manager <br>- 📚 I'm currently learning React.<br>- ⚡ In my free time I do Jiu Jitsu</p>
 
 ###
 
