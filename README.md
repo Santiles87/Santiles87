@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Product Manager <br>- 📚 I'm currently learning React.<br>- ⚡ In my free time I do Jiu Jitsu</p>
 
 ###
 
